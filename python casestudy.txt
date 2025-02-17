@@ -1,0 +1,174 @@
+❤️ cls notes basic
+
+
+
+
+
+
+
+
+print("Hello India")
+Hello India
+
+
+print(10)
+10
+a=10
+b=20
+c=a+b
+print(c)
+30
+a=10
+b=20
+c=a-b
+print(c)
+-10
+
+
+a=10
+b=20
+c=a*b
+print(c)
+200
+
+
+a=10
+b=20
+c=a/b
+print(c)
+
+
+a=10
+b=20
+c=a%b
+print(c)
+0.5
+10
+
+
+print(1,2,3,4)
+1 2 3 4
+
+
+print(type("my batch"))
+<class 'str'>
+
+
+A="jeevi"
+print(A)
+jeevi
+
+
+A="jeevi"
+print (type(A))
+<class 'str'>
+
+
+A=123.89
+print(type(A))
+<class 'float'>
+
+
+a=" Batch of"
+b=" SAA SDNB"
+c=a+b
+print(c)
+Batch of SAA SDNB
+
+
+a= "batch of"
+b= "saa sdnb"
+c= a+ "& " +b
+print(c)
+batch of& saa sdnb
+
+
+a="12"
+b="22"
+c=a+b
+print(c)
+1222
+
+
+
+
+
+a =input()  #defalut string will be consider
+b =input()
+c =a+b
+print(c)
+12
+20
+1220
+
+
+a=input(input())
+b=input()
+c=a+b
+print(c)
+30
+3022
+25
+2225
+
+
+a=int (input("enter the value of a:"))
+b=int (input("enter the value of b:"))
+c=a+b
+print(c)
+enter the value of a:12
+enter the value of b:40
+52
+
+
+a=int (input ())
+b=int (input ())
+c=int (input ())
+d=a+b+c
+e=a*b*c
+f=a-b-c
+g=a/b/c
+print(d)
+print(e)
+print(f)
+print(g)
+22
+33
+44
+99
+31944
+-55
+0.01515151515151515
+
+
+print(2.5 * 4)
+x=10
+y=2.3
+print(x/y)
+10.0
+4.347826086956522
+
+
+print (2**3)
+print (2**7)
+print (2** (-1))
+8
+128
+0.5
+
+
+10/3
+
+10/3
+3.3333333333333335
+
+print(5/3)
+print(6//5)
+print(20%7)
+
+1.6666666666666667
+1
+
+
+
+
